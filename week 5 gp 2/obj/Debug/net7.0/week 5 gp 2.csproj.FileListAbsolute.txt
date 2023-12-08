@@ -1,0 +1,14 @@
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\bin\Debug\net7.0\week 5 gp 2.exe
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\bin\Debug\net7.0\week 5 gp 2.deps.json
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\bin\Debug\net7.0\week 5 gp 2.runtimeconfig.json
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\bin\Debug\net7.0\week 5 gp 2.dll
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\bin\Debug\net7.0\week 5 gp 2.pdb
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\obj\Debug\net7.0\week 5 gp 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\obj\Debug\net7.0\week 5 gp 2.AssemblyInfoInputs.cache
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\obj\Debug\net7.0\week 5 gp 2.AssemblyInfo.cs
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\obj\Debug\net7.0\week 5 gp 2.csproj.CoreCompileInputs.cache
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\obj\Debug\net7.0\week 5 gp 2.dll
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\obj\Debug\net7.0\refint\week 5 gp 2.dll
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\obj\Debug\net7.0\week 5 gp 2.pdb
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\obj\Debug\net7.0\week 5 gp 2.genruntimeconfig.cache
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 5 gp 2\obj\Debug\net7.0\ref\week 5 gp 2.dll

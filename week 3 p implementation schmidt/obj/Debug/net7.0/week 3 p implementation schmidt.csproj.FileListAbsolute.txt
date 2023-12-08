@@ -1,0 +1,14 @@
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\bin\Debug\net7.0\week 3 p implementation schmidt.exe
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\bin\Debug\net7.0\week 3 p implementation schmidt.deps.json
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\bin\Debug\net7.0\week 3 p implementation schmidt.runtimeconfig.json
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\bin\Debug\net7.0\week 3 p implementation schmidt.dll
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\bin\Debug\net7.0\week 3 p implementation schmidt.pdb
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\obj\Debug\net7.0\week 3 p implementation schmidt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\obj\Debug\net7.0\week 3 p implementation schmidt.AssemblyInfoInputs.cache
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\obj\Debug\net7.0\week 3 p implementation schmidt.AssemblyInfo.cs
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\obj\Debug\net7.0\week 3 p implementation schmidt.csproj.CoreCompileInputs.cache
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\obj\Debug\net7.0\week 3 p implementation schmidt.dll
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\obj\Debug\net7.0\refint\week 3 p implementation schmidt.dll
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\obj\Debug\net7.0\week 3 p implementation schmidt.pdb
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\obj\Debug\net7.0\week 3 p implementation schmidt.genruntimeconfig.cache
+C:\Users\schmi\OneDrive\Documents\CIS214 Source\week 3 p implementation schmidt\obj\Debug\net7.0\ref\week 3 p implementation schmidt.dll
